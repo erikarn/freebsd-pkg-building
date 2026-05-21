@@ -1,0 +1,15 @@
+lang/lua51
+lang/lua52
+lang/lua53
+lang/lua54
+lang/luajit
+lang/gcc15
+lang/python311
+lang/python312
+lang/python313
+lang/python314
+devel/llvm19
+devel/llvm20
+devel/llvm21
+lang/rust
+lang/cython

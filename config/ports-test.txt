@@ -1,0 +1,3 @@
+shells/bash
+devel/git
+editors/vim

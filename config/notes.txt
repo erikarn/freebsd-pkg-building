@@ -1,0 +1,11 @@
+
+deleting stuff
+
+./r.sh ports -d -p HEAD
+./r.sh jail -d -j freebsd_16_ppc64le
+
+
+creating jail / port tree
+
+./r.sh jail -c -j freebsd_16_ppc64le -v 16.0-CURRENT
+ ./r.sh ports -c -p HEAD

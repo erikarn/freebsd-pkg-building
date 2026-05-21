@@ -27,6 +27,4 @@ sysutils/tmux
 www/w3m
 www/lynx
 www/links
-databases/mysql94-client
-databases/mysql94-server
 devel/arcanist

@@ -1,0 +1,7 @@
+dns/unbound
+dns/bind920
+dns/bind-tools
+dns/knot3
+dns/nss_mdns
+dns/p5-DNS-nsdiff
+dns/py-dnspython

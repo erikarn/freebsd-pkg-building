@@ -1,0 +1,5 @@
+shells/fish
+shells/bash
+shells/ksh
+
+security/sudo
